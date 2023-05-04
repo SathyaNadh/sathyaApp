@@ -1,4 +1,5 @@
 import '@/styles/globals.css'
+import '@/styles/media.css'
 import 'bootstrap/dist/css/bootstrap.css'
 import Footer from '@/Components/footer'
 import Header from '@/Components/header'
